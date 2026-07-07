@@ -1,13 +1,13 @@
 {
-  "name": "Nature Fit Menu",
+  "name": "Nature Fit iOS Menu",
   "short_name": "Nature Fit",
   "description": "Offline iOS menu and AI meal plan assistant for Nature Fit Restaurant.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4ead8",
-  "theme_color": "#0b3b29",
+  "background_color": "#FDE8F0",
+  "theme_color": "#7B5EA7",
   "icons": [
     { "src": "icons/naturefit.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
