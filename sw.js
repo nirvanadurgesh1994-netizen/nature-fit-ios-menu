@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nature-fit-ios-menu-v3';
+const CACHE_NAME = 'nature-fit-ios-menu-v4';
 const APP_SHELL = ['./','./index.html','./manifest.webmanifest','./icons/naturefit.svg'];
 
 self.addEventListener('install', event => {
